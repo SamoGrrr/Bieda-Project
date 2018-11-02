@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiedaProject", "BiedaProject\BiedaProject.csproj", "{DFFC34D2-FFEC-4305-99BB-E180571C9CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFC34D2-FFEC-4305-99BB-E180571C9CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFC34D2-FFEC-4305-99BB-E180571C9CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFC34D2-FFEC-4305-99BB-E180571C9CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFC34D2-FFEC-4305-99BB-E180571C9CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1279A1AD-4370-4394-BD07-7128ED0B5179}
+	EndGlobalSection
+EndGlobal
