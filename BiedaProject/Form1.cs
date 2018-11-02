@@ -26,5 +26,10 @@ namespace BiedaProject
         {
             label1.Text = "CALE TE";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "I told you so.";
+        }
     }
 }
